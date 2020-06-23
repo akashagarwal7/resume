@@ -44,13 +44,13 @@ Phone number: +61 (435) 217 377
 
 Tasks carried out:
 
-* Single-handedly developed a backend server-application using [Hapi](https://hapi.dev/) that extracts highly-sensitive participants' data securely from REDCap ([project-redcap.org](https://www.project-redcap.org)) using its HTTP APIs, and updates a local MySQL database using [Sequelize ORM](https://sequelize.org/). Subsets of participants' data was maintained across both systems to meet various product and research requirements. Other notable node modules were utilized to fast-track the agile-development for different deployment environments, like [Gulp](https://gulpjs.com/) for building complex workflows, [Jasmine](https://jasmine.github.io/) for time-sensitive as well as insensitive Behavior Driven Development, etc.
-* Developed a 4NF database-design to mitigate the troubles caused by existing systems in place to capture participants' data.
-* Wrote a script to process ~19K records of existing data and migrate them to the new schema, and then transport them onto REDCap in batches using [Bottleneck](https://github.com/SGrondin/bottleneck).
+* Single-handedly developed a backend server-application using [Hapi](https://hapi.dev/) that extracts highly-sensitive participants' data securely from multiple REDCap ([project-redcap.org](https://www.project-redcap.org)) projects using its HTTP APIs, and updates a local MySQL database using [Sequelize ORM](https://sequelize.org/). Subsets of participants' data were maintained across both systems to meet various product and research requirements. Other notable node modules were utilized to fast-track the agile-development for different deployment environments, like [Gulp](https://gulpjs.com/) for building complex workflows, [Jasmine](https://jasmine.github.io/) for time-sensitive as well as insensitive Behavior Driven Development, etc.
+* Developed a 4NF database-design to mitigate the issues in existing systems to capture participants' data.
+* Wrote a script to process ~19K records of existing data and migrate them to the new schema as well as transport them onto REDCap in batches using [Bottleneck](https://github.com/SGrondin/bottleneck).
 * Implemented support for secure, multi-device sign-in using JWT authentication strategy.
 * Developed frontend application using React.js and Material UI, with my primary responsibilities being functionality, navigation and routing using [react-router](https://reacttraining.com/react-router/).
-* Iterated multiple wireframes/designs with all stakeholders using Balsamiq and Adobe XD to display the data of more than 40 variables each year on a mobile-view with UX in mind.
-* Deployed the application on development and production servers using nginx, docker, docker-compose and bash scripts.
+* Iterated multiple wireframes/designs with all stakeholders using [Balsamiq](https://balsamiq.com:) and [Adobe XD](https://www.adobe.com/au/products/xd.html) to display the data of more than 40 variables each year on a mobile-view with UX in mind.
+* Deployed the application on development and production servers using nginx, Docker, docker-compose and bash scripts.
 * Modified legacy PHP reporting application to enhance security.
 
 ### Project: Overseer
@@ -60,7 +60,7 @@ Tasks carried out:
 * Developed a vertically scalable, containerized ruby application that fires up host-machine Docker containers to execute and assess untrusted students' submissions on [OnTrack](https://www.deakin.edu.au/students/help/about-clouddeakin/help-guides/assessment/ontrack) system. OnTrack, previously known as *Doubtfire*, is supported by Ruby on Rails on the backend, and utilizes a Angular 8 + Angular JS frontend application.
 * Added/modified various APIs as well as models for OnTrack to enable unit-chairs to configure assessments of a task as well as display results of an assessment to students and their respective faculty.
 * Researched and implemented advanced security solutions provided by Docker.
-* Researched and configured a RabbitMQ docker server container to maintain job queues and support communication between the Overseer listeners as well as OnTrack.
+* Researched and configured a RabbitMQ Docker server container to maintain job queues and support communication between the Overseer listeners as well as OnTrack.
 * Developed a configurable ruby gem to implement shared code between Overseer and OnTrack for a publisher/subscriber wrapper for [Bunny](https://github.com/ruby-amqp/bunny).
 * Deployed the application stack.
 
@@ -150,4 +150,4 @@ Tasks carried out:
 
 **OS**: macOS, Ubuntu, CentOS.
 
-**Misc**: Git, Portainer, RabbitMQ, Docker CE, VirtualBox, React.js, Ruby on Rails, Vim, TMUX, Markdown, J2SE, Maven, Testing, Node.js, Zsh, Bash, Amazon AWS, CSS3, HTML5, Bootstrap, configuring NGINX, configuring DNS records, UX designing using Balsamiq and Adobe XD, basic photo editing using GIMP/Adobe Photoshop, Microsoft Office tools — Word, PowerPoint and Excel; Apple iWork tools — Pages, Keynotes and Numbers; Google tools — Docs, Slides, Sheets and Forms.
+**Misc**: Git, Portainer, RabbitMQ, Docker CE, VirtualBox, React.js, Ruby on Rails, Vim, TMUX, Markdown, Pandoc, J2SE, Maven, Testing, Node.js, Zsh, Bash, Amazon AWS, CSS3, HTML5, Bootstrap, configuring NGINX, configuring DNS records, UX designing using Balsamiq and Adobe XD, basic photo editing using GIMP/Adobe Photoshop, Microsoft Office tools — Word, PowerPoint and Excel; Apple iWork tools — Pages, Keynotes and Numbers; Google tools — Docs, Slides, Sheets and Forms.
