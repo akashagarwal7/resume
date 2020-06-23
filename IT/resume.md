@@ -3,7 +3,7 @@
 
 LinkedIn: [https://www.linkedin.com/in/akash7](https://www.linkedin.com/in/akash7)
 
-Blog: [https://akashagarwal7.github.io/blog/](https://akashagarwal7.github.io/blog/)
+Blog: [https://akashagarwal7.github.io/blog](https://akashagarwal7.github.io/blog)
 
 GitHub: [github.com/akashagarwal7](github.com/akashagarwal7)
 
