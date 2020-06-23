@@ -73,9 +73,9 @@ Tasks carried out:
 
 ### Tutored units
 
-* Object-oriented programming (Course code: SIT232, language used - C#) [2020, 2019]
-* Data structures and Algorithms (Course code: SIT221, language used - C#) [2019]
-* Software Architecture and Scalability for Internet-Of-Things (Course code: SIT314, languages used - JavaScript and Java) [2019]
+* Object-oriented programming (Course code: SIT232, language used — C#) [2020, 2019]
+* Data structures and Algorithms (Course code: SIT221, language used — C#) [2019]
+* Software Architecture and Scalability for Internet-Of-Things (Course code: SIT314, languages used — JavaScript and Java) [2019]
 
 ## Software Developer Intern | Nov/2018 – Feb/2019 | Deakin University
 
