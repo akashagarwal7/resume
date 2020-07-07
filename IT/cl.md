@@ -1,23 +1,26 @@
 # Cover Letter
 
-Akash Agarwal
-+61 435217377
-agarwal.akash333@gmail.com
-Huntingdale Road
-Mount Waverly, VIC 3149
+Akash Agarwal\
++61 (435) 217 377\
+agarwal.akash333@gmail.com\
+Huntingdale Road\
+Mount Waverly, VIC 3149\
 
-To whomsoever it may concern,
+G'day,
 
-Re: <insert role title> position
-
-I am writing to apply for the position of <insert role title> at <Company name>, which was advertised online. <Talk about your key skills and experience that would make you the best fit for the role. For example: Top notch sales skills are a must in the fast-paced world of retail and I pride myself as a very effective salesperson>
+I am writing to apply for an advertised position available at your organization. Top-notch problem-solving skills are a must in the fast-paced and complex world of IT and pride myself as an excellent solutions architect. I have a knack for consistency, and I am always thriving to invest my time in learning useful things to reap the benefits in the long run.
 
 I have enclosed my CV to support my application. It shows that I would bring important skills to the position, including:
-* <Experience. Include a sentence on your relevant experience. For example: I have six years’ experience working on the shop floor in two highly competitive industries>
-* <Skills. Here you want to highlight some of your core skills that talk to the key selection criteria for the role. >
-* <Performance. Promote a key achievement or result you’re proud of that relates to the role. For example: In my time at my current place of employment I have signed on 85 new clients and exceeded sales targets by 20% in consecutive years.>
-<Talk about why you would like to work for the company and why you’d be a good fit. For example: Company name has been of interest to me since embarking on its mega store approach to retail. This is ideal for 21st century sales of flooring products. I was also impressed with the profile of your managing director Rod Smythe, which I read in the Retail journal late last year.>
-I would appreciate having the opportunity to talk with you more about this position, and how I could use my skills to benefit your organization.
-Thank you for considering my application. I look forward to hearing from you.
-Yours sincerely,
+
+* I have more than 12 years of experience as a programmer and 4 years as a software engineer, working across multiple programming languages and development frameworks while serving the requirements of clients from various backgrounds.
+* I am skilled in *nix systems as well as using popular tools for automation, CI/CD and DevOps, with a knack for security and always thriving to do the right thing.
+* I can quickly pick up new skills, build prototypes, research, and understand various documentation types like web APIs, source-code and documentations (like Java docs), man pages, RFCs, etc. This enables me to build robust solutions and efficiently connect tools/services to solutions or use them as a part of a workflow.
+
+I consider myself to be a good fit for team environments because I believe in communication being a major driver for the success of a project/undertaking. I highly believe in maintaining centralized documentation to avoid a lot of to and fro communication and enabling higher independence across teams.
+
+An opportunity to talk to you more about this position and how I could use my skills to benefit your organization would be much appreciated.
+
+Thank you for considering my application and I look forward to hearing from you.
+
+Yours sincerely,\
 Akash Agarwal
