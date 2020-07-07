@@ -29,11 +29,11 @@ Phone number: +61 (435) 217 377
 
 ### Key Responsibilities
 
-* Lead the development across multiple projects using React, [Hapi framework](https://hapi.dev/), MySQL, MongoDB, Redis, [Socket.io](https://socket.io) and Postgres databases.
+* Lead the engineering and development while also acting as the product owner across multiple projects using React, [Hapi framework](https://hapi.dev/), MySQL, MongoDB, Redis, [Socket.io](https://socket.io) and Postgres databases.
 * Peer-reviewed code.
 * Acted as first point-of-contact for multiple clients across multiple projects.
 * Dealt with various stakeholders of the projects while following Agile software development methodology.
-* Helped develop standards and protocols for writing secure, maintainable code and deploying projects.
+* Helped develop standards and protocols for writing secure, maintainable code and deploying projects using Docker Swarm, docker-compose and bash scripts.
 
 ### Project: Educator Health Reporting System
 
@@ -140,11 +140,11 @@ Tasks carried out:
 
 **Markup/styling Languages**: Markdown, HTML5, CSS3, SCSS.
 
-**Frameworks**: Hapi, React, Ruby on Rails, Bootstrap.
+**Frameworks**: Hapi, React, Ruby on Rails, Bootstrap, Unity.
 
 **Databases**: MySQL, Redis, MongoDB, Postgres.
 
-**OS**: macOS, Ubuntu, CentOS.
+**OS**: macOS, Ubuntu, CentOS, Windows.
 
 **CI/CD**: Travis, CircleCI.
 
