@@ -50,7 +50,7 @@ Tasks carried out:
 * Implemented support for secure, multi-device sign-in using JWT authentication strategy.
 * Developed frontend application using React.js and Material UI, with my primary responsibilities being functionality, navigation and routing using [react-router](https://reacttraining.com/react-router/).
 * Iterated multiple wireframes/designs with all stakeholders using [Balsamiq](https://balsamiq.com:) and [Adobe XD](https://www.adobe.com/au/products/xd.html) to display the data of more than 40 variables each year on a mobile-view with UX in mind.
-* Deployed the application on development and production servers using nginx, Docker, docker-compose and bash scripts.
+* Deployed the application on development and production servers using nginx, Docker Swarm, Docker, docker-compose and bash scripts.
 * Modified legacy PHP reporting application to enhance security.
 
 ### Project: Overseer
@@ -150,4 +150,6 @@ Tasks carried out:
 
 **OS**: macOS, Ubuntu, CentOS.
 
-**Misc**: Git, Portainer, RabbitMQ, Docker CE, VirtualBox, React.js, Ruby on Rails, Vim, TMUX, Markdown, Pandoc, J2SE, Maven, Testing, Node.js, Zsh, Bash, Amazon AWS, CSS3, HTML5, Bootstrap, configuring NGINX, configuring DNS records, UX designing using Balsamiq and Adobe XD, basic photo editing using GIMP/Adobe Photoshop, Microsoft Office tools — Word, PowerPoint and Excel; Apple iWork tools — Pages, Keynotes and Numbers; Google tools — Docs, Slides, Sheets and Forms.
+**CI/CD**: Travis, CircleCI.
+
+**Misc**: Git, Portainer, RabbitMQ, Docker Swarm, Docker CE, AWS, VirtualBox, React.js, Ruby on Rails, Vim, TMUX, Markdown, Pandoc, J2SE, Maven, Testing, Node.js, Zsh, Bash, Amazon AWS, CSS3, HTML5, Bootstrap, configuring NGINX, configuring DNS records, UX designing using Balsamiq and Adobe XD, basic photo editing using GIMP/Adobe Photoshop, Microsoft Office tools — Word, PowerPoint and Excel; Apple iWork tools — Pages, Keynotes and Numbers; Google tools — Docs, Slides, Sheets and Forms.

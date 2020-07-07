@@ -17,8 +17,7 @@ I have enclosed my CV to support my application. It shows that I would bring imp
 * <Skills. Here you want to highlight some of your core skills that talk to the key selection criteria for the role. >
 * <Performance. Promote a key achievement or result you’re proud of that relates to the role. For example: In my time at my current place of employment I have signed on 85 new clients and exceeded sales targets by 20% in consecutive years.>
 <Talk about why you would like to work for the company and why you’d be a good fit. For example: Company name has been of interest to me since embarking on its mega store approach to retail. This is ideal for 21st century sales of flooring products. I was also impressed with the profile of your managing director Rod Smythe, which I read in the Retail journal late last year.>
-I would enjoy having the opportunity to talk with you more about this position, and how I could use my skills to benefit your organisation.
+I would appreciate having the opportunity to talk with you more about this position, and how I could use my skills to benefit your organization.
 Thank you for considering my application. I look forward to hearing from you.
 Yours sincerely,
-<Your name>
-
+Akash Agarwal
