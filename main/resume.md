@@ -1,12 +1,7 @@
-
-# Akash Agarwal
-
-LinkedIn: [https://www.linkedin.com/in/akash7](https://www.linkedin.com/in/akash7)\
-Blog: [https://akashagarwal7.github.io/blog](https://akashagarwal7.github.io/blog)\
-GitHub: [github.com/akashagarwal7](github.com/akashagarwal7)\
-Email: [agarwal.akash333@gmail.com](mailto:agarwal.akash333@gmail.com)\
-Address: Mount Waverly, VIC 3149, Australia\
-Phone number: +61 (435) 217 377
+---
+layout: page
+title: Resume
+---
 
 # Profile
 
