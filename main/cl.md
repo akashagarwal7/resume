@@ -7,7 +7,7 @@ G'day,
 
 Top-notch problem-solving skills are a must in the fast-paced and complex world of IT and pride myself as an excellent solutions architect. I have a knack for consistency, and I am always thriving to invest my time in learning useful things to reap the benefits in the long run.
 
-My [resume](/resume/main/resume) shows that I would bring important skills to a potential role, including:
+My [resume](../resume) shows that I would bring important skills to a potential role, including:
 
 * I have more than 12 years of experience as a programmer and 4 years as a software engineer, working across multiple programming languages and development frameworks while serving the requirements of clients from various backgrounds.
 * I am skilled in *nix systems as well as using popular tools for automation, CI/CD and DevOps, with a knack for security and always thriving to do the right thing.
