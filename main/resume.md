@@ -2,7 +2,7 @@
 # Akash Agarwal
 
 LinkedIn: [https://www.linkedin.com/in/akash7](https://www.linkedin.com/in/akash7)\
-Blog: [https://akashagarwal7.github.io/blog](https://akashagarwal7.github.io/blog)\
+Blog: [https://akashagarwal7.com](https://akashagarwal7.com)\
 GitHub: [github.com/akashagarwal7](github.com/akashagarwal7)\
 Email: [agarwal.akash333@gmail.com](mailto:agarwal.akash333@gmail.com)\
 Address: Mount Waverly, VIC 3149, Australia\
