@@ -61,11 +61,19 @@ Tasks carried out:
 * Planned and conducted tutoring sessions every week.
 * Marked and provided feedback to students' submissions.
 
-### Tutored units
+### Object-oriented programming (Course code: SIT232, language used — C#) [2020, 2019]
 
-* Object-oriented programming (Course code: SIT232, language used — C#) [2020, 2019]
-* Data structures and Algorithms (Course code: SIT221, language used — C#) [2019]
-* Software Architecture and Scalability for Internet-Of-Things (Course code: SIT314, languages used — JavaScript and Java) [2019]
+[2020 Unit link](https://rebrand.ly/20-232), [2019 link](https://rebrand.ly/19-232)
+
+### Data structures and Algorithms (Course code: SIT221, language used — C#) [2019]
+
+[2019 Unit link](https://rebrand.ly/19-221)
+
+### Software Architecture and Scalability for Internet-Of-Things (Course code: SIT314, languages used — JavaScript and Java) [2019]
+
+[2019 Unit link](https://rebrand.ly/19-314)
+
+Noteworthy experience — Taught software architecture and scalability for IoT devices using AWS, IBM Cloud and other cloud-based solutions.
 
 ## Software Engineer Intern | Nov/2018 – Feb/2019 | Deakin University, Melbourne, AU
 
