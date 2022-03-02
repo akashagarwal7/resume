@@ -6,12 +6,12 @@ title: Resume
 # Profile
 
 * Highly self-motivated, self-disciplined individual, with a knack for consistency.
-* Always thriving to do things in the right way and eager to learn.
-* Loves automating monotonous tasks/chores, using Git, SSH, and Docker, and contributing to Open Source.
-* 12+ years of experience in using computers and programming and 4+ years of experience in engineering software solutions, as a hobbyist as well as a professional utilizing multiple programming languages and frameworks.
+* Eager to learn; thrives in doing things the right way.
+* Loves automating monotonous tasks/chores and contributing to Open Source.
+* 14+ years of experience in using computers and programming and 6+ years of experience in engineering software solutions, as a hobbyist as well as a professional utilizing multiple programming languages and frameworks.
 * Good grasping power of new programming languages and concepts. Can easily explore/use APIs and SDKs.
-* Proficient in operating *nix operating systems, as well as developing and deploying solutions with security in mind.
-* Proficient in using Git, Docker, VirtualBox, Agile methodologies, UML diagrams and documentation.
+* Proficient in operating *nix operating systems; proficient in developing and deploying solutions with security in mind.
+* Proficient in using Git, Kubernetes, Docker, VirtualBox, Agile methodologies, UML diagrams and documentation.
 * Good time-management skills.
 * Excellent verbal and written communication skills.
 * Takes regular interest in fitness, reading and writing.
@@ -20,11 +20,51 @@ title: Resume
 
 # Experience
 
+
+## Software Engineer | August/2020 - Present | Applied Artificial Intelligence Institute, Melbourne, AU
+
+### Key Responsibilities
+
+* Evaluate and manage resources of various products at Google Cloud Platform like [Kubernetes clusters](https://cloud.google.com/kubernetes-engine), [Secret Manager](https://cloud.google.com/secret-manager), [Cloud Storage](https://cloud.google.com/storage), [Cloud Armor](https://cloud.google.com/armor), [IAM](https://cloud.google.com/iam), [Logging](https://cloud.google.com/logging), [Tracing](https://cloud.google.com/trace), [Load Balancing](https://cloud.google.com/load-balancing), Billing, [Anthos](https://cloud.google.com/anthos), [Cloud Functions](https://cloud.google.com/functions), [Container Registry](https://cloud.google.com/container-registry), [Pub/sub](https://cloud.google.com/pubsub), etc.
+* Evaluate system monitoring solutions; provision monitoring as well as alerting policies for multiple projects' infrastructure.
+* Periodically evaluate and enhance systems' security and performance.
+* Evaluate existing/emerging technologies and liaise with various stakeholders of internal and external teams to meet projects' and organizational goals.
+* Evaluate plans, pricing, pros and cons of various third party services required by projects.
+* Help educate team members in existing/emerging technologies.
+* Contribute and review code in multiple programming languages towards business requirements, infrastructure as code, functional as well as emulated performance-tests.
+* Contribute documentation towards projects and organization.
+* Contribute insights towards research projects and review respective papers; participate in various organizational focus-areas.
+* Setup and manage continuous integration pipelines.
+
+### Project: Conductor
+
+Tasks carried out:
+
+* Help prepare documents for research ethics compliance and carry out tasks to ensure compliance adherence with the same regularly.
+* Manage Cloud infrastructure across Google Cloud Platform and various third-party providers.
+* Manage [Metabase](https://www.metabase.com/) used for analyzing data collected through multiple research studies along with system internals.
+* Manage [Keycloak](https://www.keycloak.org/) for supporting oAuth2.0 + OpenID Connect protocol for authentication and authorization of Android and iOS clients with the microservices.
+* Help gain valuable insights on research data and system performance through complex SQL queries and dashboards on Metabase.
+* Administer multiple Postgres instances including but not limited to monitoring and tweaking performance, access-control, etc. and provision advanced features like forward data-wrapping.
+* Evaluate various time-series data solutions for collecting participants' data of a study; evaluate and optimize existing usages of [Timescale](https://www.timescale.com/).
+* Contribute and review code towards a live, complex distributed system involving Artificial Intelligence and multiple asynchronous operations backed by RabbitMQ.
+* Conduct various performance-tests in emulated environments to identify and rectify performance bottlenecks.
+* Investigate various Infrastructure-as-Code tools like [Terraform](https://www.terraform.io/) and [Pulumi](https://www.pulumi.com/) to automate deployment of various parts of the system.
+* Establish pipelines for backing up huge production datasets for disaster recovery and restoring the same in an isolated environment for carrying out various tests.
+
+### Project: Suggestion Engine
+
+Tasks carried out:
+
+* Provisioned and maintained [Dgraph](https://dgraph.io/) and Elasticsearch on a private remote machine for team collaboration on big datasets required during development.
+* Contributed and reviewed code in ASP.net.
+* Analyzed large data using scripts written in JavaScript and Python to inform system design.
+
 ## Lead Software Engineer | Mar/2019 – June/2020 | Deakin University, Melbourne, AU
 
 ### Key Responsibilities
 
-* Lead the engineering and development while also acting as the product owner across multiple projects using React, [Hapi framework](https://hapi.dev/), MySQL, MongoDB, Redis, [Socket.io](https://socket.io) and Postgres databases.
+* Led the engineering and development while also acting as the product owner across multiple projects using React, [Hapi framework](https://hapi.dev/), MySQL, MongoDB, Redis, [Socket.io](https://socket.io) and Postgres databases.
 * Peer-reviewed code.
 * Acted as first point-of-contact for multiple clients across multiple projects.
 * Dealt with various stakeholders of the projects while following Agile software development methodology.
@@ -35,8 +75,8 @@ title: Resume
 Tasks carried out:
 
 * Developed a backend server-application single-handedly using Hapi framework that extracts sensitive information of participants of a longitudinal study, securely from multiple REDCap ([project-redcap.org](https://www.project-redcap.org)) projects using its web API, and updates a local MySQL database using [Sequelize ORM](https://sequelize.org/). Subsets of participants' data were synced across both systems to meet various product and research requirements. Other notable node modules were utilized to fast-track the agile-development for different deployment environments, like [Gulp](https://gulpjs.com/) for building complex workflows, [Jasmine](https://jasmine.github.io/) for time-sensitive as well as insensitive Behavior Driven Development, [semantic-release](https://www.npmjs.com/package/semantic-release) for effortless releases, etc.
-* Developed a 4NF database-design to mitigate the issues in existing systems to capture participants' data.
-* Wrote a script to process ~19K records of existing data and migrate them to the new schema as well as transport them onto REDCap in parallel batches using [Bottleneck](https://github.com/SGrondin/bottleneck).
+* Developed a 4NF database-design to mitigate issues in existing systems for capturing participants' data.
+* Wrote scripts to process and migrate ~19K records of existing data to the new schema as well as transporting them onto REDCap in parallel batches using [Bottleneck](https://github.com/SGrondin/bottleneck).
 * Implemented support for secure, multi-device sign-in using JWT authentication strategy.
 * Developed frontend application using React and [Material UI](https://material-ui.com/), with my primary responsibilities being functionality, navigation, layout and routing using [react-router](https://reacttraining.com/react-router/).
 * Iterated multiple wireframes/designs with all stakeholders using [Balsamiq](https://balsamiq.com:) and [Adobe XD](https://www.adobe.com/au/products/xd.html) to display the data of more than 40 variables each year on a mobile-view with UX in mind.
