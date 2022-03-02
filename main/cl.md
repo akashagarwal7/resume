@@ -18,7 +18,7 @@ I have enclosed my CV to support my application. It shows that I would bring imp
 
 * I have more than 12 years of experience as a programmer and 4 years as a software engineer, working across multiple programming languages and development frameworks while serving the requirements of clients from various backgrounds.
 * During my time at Deakin University, I have also gained valuable tutoring experience for OOP concepts, Data Structures and Algorithms, as well as Software architecture and scalability for IoT using AWS, IBM Cloud and other cloud-based solutions.
-* I am skilled in *nix systems as well as using popular tools for automation, CI/CD and DevOps, with a knack for security and always thriving to do the right thing.
+* I am skilled in *nix systems as well as using popular tools for automation, orchestration and containerizing services using Kubernetes, Docker, CI/CD and DevOps, with a knack for security and always thriving to do the right thing.
 * I can quickly pick up new skills, build prototypes, research, and understand various documentation types like web APIs, source-code and documentations (like Java docs), man pages, RFCs, etc. This enables me to build robust solutions and efficiently connect tools/services to solutions or use them as a part of a workflow.
 
 I consider myself to be a good fit for team environments because I believe in communication being a major driver for the success of a project/undertaking. I highly believe in maintaining centralized documentation to avoid a lot of to and fro communication and enabling higher independence across teams.
