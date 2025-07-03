@@ -20,54 +20,52 @@ title: Resume
 
 # Experience
 
-
 ## Software Engineer | August/2020 - Present | Applied Artificial Intelligence Institute, Melbourne, AU
 
-### Key Responsibilities
+### Principal Responsibilities & Strategic Contributions
 
-* Evaluate and manage resources of various products at Google Cloud Platform like [Kubernetes clusters](https://cloud.google.com/kubernetes-engine), [Secret Manager](https://cloud.google.com/secret-manager), [Cloud Storage](https://cloud.google.com/storage), [Cloud Armor](https://cloud.google.com/armor), [IAM](https://cloud.google.com/iam), [Logging](https://cloud.google.com/logging), [Tracing](https://cloud.google.com/trace), [Load Balancing](https://cloud.google.com/load-balancing), Billing, [Anthos](https://cloud.google.com/anthos), [Cloud Functions](https://cloud.google.com/functions), [Container Registry](https://cloud.google.com/container-registry), [Pub/sub](https://cloud.google.com/pubsub), etc.
-* Evaluate system monitoring solutions; provision monitoring as well as alerting policies for multiple projects' infrastructure.
-* Periodically evaluate and enhance systems' security and performance.
-* Evaluate existing/emerging technologies and liaise with various stakeholders of internal and external teams to meet projects' and organizational goals.
-* Evaluate plans, pricing, pros and cons of various third party services required by projects.
-* Help educate team members in existing/emerging technologies.
-* Contribute and review code in multiple programming languages towards business requirements, infrastructure as code, functional as well as emulated performance-tests.
-* Contribute documentation towards projects and organization.
-* Contribute insights towards research projects and review respective papers; participate in various organizational focus-areas.
-* Setup and manage continuous integration pipelines.
+* Architect, evaluate, and optimize cloud infrastructure resources across Google Cloud Platform's comprehensive ecosystem, including [Kubernetes clusters](https://cloud.google.com/kubernetes-engine), [Secret Manager](https://cloud.google.com/secret-manager), [Cloud Storage](https://cloud.google.com/storage), [Cloud Armor](https://cloud.google.com/armor), [IAM](https://cloud.google.com/iam), [Logging](https://cloud.google.com/logging), [Tracing](https://cloud.google.com/trace), [Load Balancing](https://cloud.google.com/load-balancing), Billing Analytics, [Anthos](https://cloud.google.com/anthos), [Cloud Functions](https://cloud.google.com/functions), [Container Registry](https://cloud.google.com/container-registry), [Pub/Sub](https://cloud.google.com/pubsub), and associated enterprise services.
+* Architect and implement comprehensive monitoring solutions, establishing sophisticated alerting frameworks and governance policies across multi-project infrastructure ecosystems.
+* Conduct periodic security audits and performance optimization initiatives to ensure system resilience and operational excellence.
+* Strategically evaluate emerging technologies and maintain diplomatic liaison relationships with stakeholders across internal and external organizational boundaries to achieve strategic objectives.
+* Conduct comprehensive feasibility assessments and cost-benefit analyses for third-party service integrations aligned with project requirements.
+* Mentor and educate team members in cutting-edge technologies, fostering a culture of continuous learning and professional development.
+* Architect, contribute to, and conduct rigorous peer reviews of multi-language codebases supporting business requirements, infrastructure as code implementations, and comprehensive testing suites including functional and performance validation.
+* Author and maintain comprehensive technical documentation supporting project sustainability and organizational knowledge management.
+* Provide strategic insights for research initiatives and participate in scholarly paper reviews while contributing to organizational focus areas.
+* Design and maintain sophisticated CI/CD pipelines ensuring seamless software delivery.
 
 ### Project: Conductor
 
 Tasks carried out:
 
-* Help prepare documents for research ethics compliance and carry out tasks to ensure compliance adherence with the same regularly.
+* Orchestrate comprehensive documentation for research ethics compliance and execute systematic adherence protocols to maintain regulatory standards.
 * Manage Cloud infrastructure across Google Cloud Platform and various third-party providers.
-* Manage [Metabase](https://www.metabase.com/) used for analyzing data collected through multiple research studies along with system internals.
-* Manage [Keycloak](https://www.keycloak.org/) for supporting oAuth2.0 + OpenID Connect protocol for authentication and authorization of Android and iOS clients with the microservices.
-* Help gain valuable insights on research data and system performance through complex SQL queries and dashboards on Metabase.
-* Administer multiple Postgres instances including but not limited to monitoring and tweaking performance, access-control, etc. and provision advanced features like forward data-wrapping.
-* Evaluate various time-series data solutions for collecting participants' data of a study; evaluate and optimize existing usages of [Timescale](https://www.timescale.com/).
+* Oversee [Metabase](https://www.metabase.com/) implementation for analytics of multi-study research datasets and comprehensive system performance metrics.
+* Manage [Keycloak](https://www.keycloak.org/) deployment supporting OAuth2.0 + OpenID Connect authentication protocols for seamless Android and iOS client integration with microservices architecture.
+* Administer multiple Postgres instances including but not limited to monitoring and tweaking performance, access-control, etc. along with enabling advanced features like forward data-wrappers.
+* Evaluate various time-series data solutions for collecting participants' data of a study; evaluate and while improving existing implementation of [Timescale](https://www.timescale.com/).
 * Contribute and review code towards a live, complex distributed system involving Artificial Intelligence and multiple asynchronous operations backed by RabbitMQ.
 * Conduct various performance-tests in emulated environments to identify and rectify performance bottlenecks.
-* Investigate various Infrastructure-as-Code tools like [Terraform](https://www.terraform.io/) and [Pulumi](https://www.pulumi.com/) to automate deployment of various parts of the system.
+* Investigate and implement various Infrastructure-as-Code tools like [Terraform](https://www.terraform.io/) and [Pulumi](https://www.pulumi.com/) to automate deployment of various parts of the system.
 * Establish pipelines for backing up huge production datasets for disaster recovery and restoring the same in an isolated environment for carrying out various tests.
 
 ### Project: Suggestion Engine
 
-Tasks carried out:
+Strategic Deliverables:
 
-* Provisioned and maintained [Dgraph](https://dgraph.io/) and Elasticsearch on a private remote machine for team collaboration on big datasets required during development.
-* Contributed and reviewed code in ASP.net.
-* Analyzed large data using scripts written in JavaScript and Python to inform system design.
+* Provisioned and administered [Dgraph](https://dgraph.io/) and Elasticsearch infrastructure on dedicated remote systems, facilitating collaborative access to extensive datasets essential for development initiatives.
+* Contributed to and conducted comprehensive code reviews for ASP.NET applications, ensuring adherence to enterprise development standards.
+* Executed sophisticated data analysis utilizing JavaScript and Python scripts to derive actionable insights informing strategic system architecture decisions.
 
 ## Lead Software Engineer | Mar/2019 – June/2020 | Deakin University, Melbourne, AU
 
-### Key Responsibilities
+### Principal Responsibilities & Leadership Achievements
 
-* Led the engineering and development while also acting as the product owner across multiple projects using React, [Hapi framework](https://hapi.dev/), MySQL, MongoDB, Redis, [Socket.io](https://socket.io) and Postgres databases.
-* Peer-reviewed code.
-* Acted as first point-of-contact for multiple clients across multiple projects.
-* Dealt with various stakeholders of the projects while following Agile software development methodology.
+* Spearheaded engineering excellence and product ownership across multiple concurrent projects utilizing React, [Hapi framework](https://hapi.dev/), MySQL, MongoDB, Redis, [Socket.io](https://socket.io), and PostgreSQL databases, demonstrating expertise in full-stack development and architectural decision-making.
+* Conducted rigorous peer code reviews, ensuring adherence to industry best practices and maintainability standards.
+* Served as primary liaison and technical point-of-contact for multiple clients across projects, managing stakeholder expectations and deliverables.
+* Navigated complex stakeholder relationships while implementing Agile software development methodologies, ensuring alignment between business objectives and technical execution.
 * Helped develop standards and protocols for writing secure, maintainable code and deploying projects using Docker Swarm, docker-compose and bash scripts.
 
 ### Project: Educator Health Reporting System
@@ -85,21 +83,21 @@ Tasks carried out:
 
 ### Project: Overseer
 
-Tasks carried out:
+Strategic Deliverables:
 
-* Developed a vertically scalable, containerized ruby application that fires up host-machine Docker containers to execute and assess untrusted students' submissions on [OnTrack](https://www.deakin.edu.au/students/help/about-clouddeakin/help-guides/assessment/ontrack) system. OnTrack, previously known as *Doubtfire*, is supported by Ruby on Rails on the backend, and utilizes a Angular 8 + Angular JS frontend application.
-* Added/modified various API endpoints as well as models for OnTrack to enable unit-chairs to configure assessments of a task as well as display results of an assessment to students and their respective faculty.
-* Researched and implemented advanced security solutions provided by Docker.
-* Researched and configured a RabbitMQ Docker server container to maintain job queues and support communication between the Overseer listeners as well as OnTrack.
-* Developed a configurable ruby gem to implement shared code between Overseer and OnTrack for a publisher/subscriber wrapper for [Bunny](https://github.com/ruby-amqp/bunny).
-* Deployed the application stack.
+* Engineered a vertically scalable, containerized Ruby application featuring sophisticated architecture for instantiating host-machine Docker containers to execute and evaluate untrusted student submissions within the [OnTrack](https://www.deakin.edu.au/students/help/about-clouddeakin/help-guides/assessment/ontrack) system. OnTrack, formerly known as *Doubtfire*, encompassing a Ruby on Rails backend complemented by a hybrid Angular 8 + AngularJS frontend application.
+* Enhanced and modified various API endpoints and data models within OnTrack architecture to enable academic unit coordinators to configure sophisticated assessment protocols and facilitate seamless result presentation to students and their respective faculty.
+* Researched and implemented advanced Docker security solutions and best practices for container isolation.
+* Researched and configured a sophisticated RabbitMQ Docker server container infrastructure to maintain job queue integrity and facilitate secure communication protocols between Overseer listeners and OnTrack backend.
+* Developed a highly configurable Ruby gem to implement shared codebase functionality between Overseer and OnTrack backend, featuring a publisher/subscriber wrapper architecture for [Bunny](https://github.com/ruby-amqp/bunny) integration.
+* Orchestrated deployment of the application stack across production environments.
 
 ## Casual academic | Mar/2019 – June/2020 | Deakin University, Melbourne, AU
 
-### Key Responsibilities
+### Principal Academic Responsibilities
 
-* Planned and conducted tutoring sessions every week.
-* Marked and provided feedback to students' submissions.
+* Orchestrated comprehensive weekly tutorial sessions encompassing curriculum delivery and student mentorship.
+* Conducted rigorous evaluation and provided constructive feedback on student submissions to facilitate academic progression.
 
 ### Object-oriented programming (Course code: SIT232, language used — C#) [2020, 2019]
 
@@ -119,19 +117,19 @@ Noteworthy experience — Taught software architecture and scalability for IoT d
 
 ### Project: Deakin Launchpad Research Studies
 
-Tasks carried out:
+Strategic Accomplishments:
 
-* Lead the development of frontend application using React and backend application using Hapi framework and MongoDB database.
-* Carried out multiple spikes to figure out the available solutions for complex problems.
-* Prepared documents for requirements, designs and logical flows using UML.
+* Spearheaded the development of sophisticated frontend applications utilizing React framework and comprehensive backend solutions employing Hapi framework with MongoDB database integration.
+* Executed multiple agile spikes to identify optimal solutions for complex technical challenges.
+* Authored comprehensive documentation encompassing requirements analysis, architectural designs, and logical workflow specifications utilizing UML methodologies.
 
 ## Freelance Software Developer | July/2016 – Jan/2018, India
 
-Tasks carried out:
+Strategic Accomplishments:
 
-* Developed mobile apps using QT and Android, backed by Node.js and Ruby on Rails server application utilizing MySQL, Postgres and Firebase.
-* Implemented 3rd party SDKs for displaying video advertisements in client-applications.
-* Developed multiple websites using Wordpress and hosted them using Nginx.
+* Architected and developed mobile applications utilizing Qt and Android frameworks, complemented by robust server-side infrastructure leveraging Node.js and Ruby on Rails with MySQL, PostgreSQL, and Firebase database integrations.
+* Implemented third-party SDK integrations for video advertisement monetization within client applications.
+* Engineered multiple WordPress-based web solutions with optimized Nginx hosting configurations for enhanced performance and reliability.
 
 ---
 
@@ -148,7 +146,7 @@ Tasks carried out:
 
 > _Majors in Software Engineering_
 
-* **Capstone Project:** *Hatchen App* — Lead a team of 3 for development of an Android app focused on enhancing communication for teams, using Node.js, Socket.io, and a MySQL database at the backend.
+* **Capstone Project:** *Hatchen App* — Spearheaded a team of 3 for the development of an Android application focused on enhancing team communication, utilizing Node.js, Socket.io, and MySQL database at the backend.
 
 ---
 
@@ -162,7 +160,7 @@ Tasks carried out:
 
 ## EnvisionCraft | 2016 - 2017
 
-Tasks carried out:
+Accomplishments:
 
 * Developed configurable plugins for different distributions of Java server of the popular game [Minecraft](minecraft.net). Many of these plugins utilized MySQL for persisting players' data via JDBC and communicated between multiple server instances backed by Redis, including a Proxy server.
 * Deployed and maintained server software on multiple remote VMs. Used SSH-tunneling for secure networking amongst the VMs.
@@ -187,8 +185,8 @@ Tasks carried out:
 
 **Databases**: MySQL, Redis, MongoDB, Postgres.
 
-**OS**: macOS, Ubuntu, CentOS, Windows.
+**Operating Systems**: macOS, Ubuntu, CentOS, Windows.
 
 **CI/CD**: Travis, CircleCI.
 
-**Misc**: Git, [Portainer](https://www.portainer.io/), RabbitMQ, AWS, VirtualBox, Vim, [Tmux](https://github.com/tmux/tmux/wiki), [Pandoc](https://pandoc.org/), J2SE, Maven, Zsh, configuring DNS records, wire-framing using [Balsamiq](https://balsamiq.com/) and Adobe XD, basic photo editing using GIMP/Adobe Photoshop, Microsoft Office tools — Word, PowerPoint and Excel; Apple iWork tools — Pages, Keynotes and Numbers; GSuite tools — Docs, Slides, Sheets and Forms.
+**Miscellaneous**: Git, [Portainer](https://www.portainer.io/), RabbitMQ, AWS, VirtualBox, Vim, [Tmux](https://github.com/tmux/tmux/wiki), [Pandoc](https://pandoc.org/), J2SE, Maven, Zsh, DNS record configuration, wire-framing utilizing [Balsamiq](https://balsamiq.com/) and Adobe XD, graphic design utilizing GIMP/Adobe Photoshop, Microsoft Office suite — Word, PowerPoint and Excel; Apple iWork suite — Pages, Keynotes and Numbers; GSuite applications — Docs, Slides, Sheets and Forms.
