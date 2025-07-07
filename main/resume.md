@@ -34,6 +34,9 @@ title: Resume
 * Author and maintain comprehensive technical documentation supporting project sustainability and organizational knowledge management.
 * Provide strategic insights for research initiatives and participate in scholarly paper reviews while contributing to organizational focus areas.
 * Design and maintain sophisticated CI/CD pipelines ensuring seamless software delivery.
+* Deploy and manage multiple Kubernetes-based project deployments with automated SSL certificate rotation across multi-project infrastructure.
+* Implement cost-optimization strategies through GitHub Pages deployments, reducing hosting expenses while maintaining automated deployment capabilities.
+* Establish and maintain centralized infrastructure-as-code repositories for streamlined multi-project management and governance.
 
 ### Project: Conductor
 
@@ -49,6 +52,34 @@ Tasks carried out:
 * Conduct various performance-tests in emulated environments to identify and rectify performance bottlenecks.
 * Investigate and implement various Infrastructure-as-Code tools like [Terraform](https://www.terraform.io/) and [Pulumi](https://www.pulumi.com/) to automate deployment of various parts of the system.
 * Establish pipelines for backing up huge production datasets for disaster recovery and restoring the same in an isolated environment for carrying out various tests.
+* Conduct comprehensive infrastructure budgeting and cost analysis for research grant applications, including detailed cost estimates and infrastructure planning for different operational scales across GCP services and third-party integrations such as Twilio and Mailgun.
+* Optimize Kubernetes resource monitoring and consumption strategies, resulting in significant hosting cost reductions and improved overall GCP cost efficiency.
+* Implement advanced project knowledge management solutions using Coda platform for enhanced team collaboration and documentation.
+* Migrate CI/CD infrastructure from Codefresh to GitHub Actions, improving deployment automation and development workflow efficiency.
+* Implement contract testing using [Pact](https://pact.io) along with guidelines to facilitate team adoption and knowledge transfer.
+
+### Project: Living Knowledge
+
+Strategic Accomplishments:
+
+* Developed familiarity in statistical and machine learning methodologies including TF-IDF vectorization, Naive Bayes classification, cross-validation techniques, and various distance algorithms for advanced data analysis.
+* Architected and implemented sophisticated PDF processing solutions leveraging GPT-3/4 integration, focusing on fuzzy matching algorithms and semantic search capabilities for enhanced document analysis.
+* Conducted comprehensive evaluation of proprietary and open-source PDF text extraction and annotation solutions, including PDFTron, Mathpix, Adobe SDK integrations, and other enterprise-grade JavaScript and Python libraries.
+* Established familiarity in cutting-edge ML frameworks including LangChain for language model orchestration, Jupyter notebooks for interactive development, Keras and TensorFlow for deep learning implementations.
+* Implemented database solutions utilizing pgvector and tsvector for vector similarity search and full-text search capabilities.
+* Developed familiarity with rapid prototyping capabilities using Gradio framework for creating intuitive user interfaces for machine learning applications.
+* Developed and tested various indexing and chunking strategies to optimize document summarization and question-answering systems.
+* Developed familiarity in MLOps ecosystem including Google Cloud ML services, MLFlow for experiment tracking, Weights & Biases for model monitoring, and Metaflow for workflow orchestration.
+* Deployed robust containerized experiment tracking infrastructure using MLFlow with SQLite backend for reproducible machine learning workflows.
+* Developed proficiency with open-source large language models and SLURM cluster management for high-performance computing environments.
+
+### Project: Cognitive Reviewer
+
+Strategic Deliverables:
+
+* Architected and authored comprehensive engineering specifications for user feedback collection systems, subsequently leading full-stack implementation from design to deployment.
+* Developed robust RESTful APIs utilizing FastAPI framework, establishing comprehensive Python testing frameworks and methodologies to ensure code quality and system reliability.
+* Implemented sophisticated frontend features using React framework, delivering responsive and intuitive user interfaces for cognitive assessment tools.
 
 ### Project: Suggestion Engine
 
