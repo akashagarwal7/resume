@@ -24,38 +24,34 @@ title: Resume
 
 ### Principal Responsibilities & Strategic Contributions
 
-* Architect, evaluate, and optimize cloud infrastructure resources across Google Cloud Platform's comprehensive ecosystem, including [Kubernetes clusters](https://cloud.google.com/kubernetes-engine), [Secret Manager](https://cloud.google.com/secret-manager), [Cloud Storage](https://cloud.google.com/storage), [Cloud Armor](https://cloud.google.com/armor), [IAM](https://cloud.google.com/iam), [Logging](https://cloud.google.com/logging), [Tracing](https://cloud.google.com/trace), [Load Balancing](https://cloud.google.com/load-balancing), Billing Analytics, [Anthos](https://cloud.google.com/anthos), [Cloud Functions](https://cloud.google.com/functions), [Container Registry](https://cloud.google.com/container-registry), [Pub/Sub](https://cloud.google.com/pubsub), and associated enterprise services.
+* Architect, evaluate, and optimize cloud infrastructure resources across Google Cloud Platform's ecosystem, including [Kubernetes clusters](https://cloud.google.com/kubernetes-engine), [Secret Manager](https://cloud.google.com/secret-manager), [Cloud Storage](https://cloud.google.com/storage), [Cloud Armor](https://cloud.google.com/armor), [IAM](https://cloud.google.com/iam), [Logging](https://cloud.google.com/logging), [Tracing](https://cloud.google.com/trace), [Load Balancing](https://cloud.google.com/load-balancing), Billing Analytics, [Anthos](https://cloud.google.com/anthos), [Cloud Functions](https://cloud.google.com/functions), [Container Registry](https://cloud.google.com/container-registry), [Pub/Sub](https://cloud.google.com/pubsub), and associated enterprise services.
 * Serve as primary technical contact point for Deakin's GCP Subject Matter Expert (SME) to enhance organizational security posture and implement enterprise-grade security initiatives.
-* Architect and implement comprehensive monitoring solutions, establishing sophisticated alerting frameworks and governance policies across multi-project infrastructure ecosystems.
-* Conduct periodic security audits and performance optimization initiatives to ensure system resilience and operational excellence.
-* Strategically evaluate emerging technologies and maintain diplomatic liaison relationships with stakeholders across internal and external organizational boundaries to achieve strategic objectives.
-* Conduct comprehensive feasibility assessments and cost-benefit analyses for third-party service integrations aligned with project requirements.
-* Mentor and educate team members in cutting-edge technologies, fostering a culture of continuous learning and professional development.
-* Architect, contribute to, and conduct rigorous peer reviews of multi-language codebases supporting business requirements, infrastructure as code implementations, and comprehensive testing suites including functional and performance validation.
-* Author and maintain comprehensive technical documentation supporting project sustainability and organizational knowledge management.
-* Provide strategic insights for research initiatives and participate in scholarly paper reviews while contributing to organizational focus areas.
-* Design and maintain sophisticated CI/CD pipelines ensuring seamless software delivery.
-* Deploy and manage multiple Kubernetes-based project deployments with automated SSL certificate rotation across multi-project infrastructure.
-* Implement cost-optimization strategies through GitHub Pages deployments, reducing hosting expenses while maintaining automated deployment capabilities.
-* Establish and maintain centralized infrastructure-as-code repositories for streamlined multi-project management and governance.
+* Design and implement monitoring solutions, alerting frameworks, and governance policies across multi-project infrastructure ecosystems.
+* Conduct security audits, performance optimization, cost-benefit analyses, and feasibility assessments for third-party service integrations.
+* Strategically evaluate emerging technologies and maintain stakeholder relationships across internal and external organizational boundaries.
+* Mentor junior team members in cutting-edge technologies, fostering continuous learning and professional development.
+* Architect, contribute to, and conduct rigorous peer reviews of multi-language codebases.
+* Implement testing suites including functional and performance validation.
+* Author and maintain technical documentation supporting project sustainability and organizational knowledge management.
+* Provide strategic insights for research initiatives and participate in scholarly paper reviews.
+* Design and maintain CI/CD pipelines ensuring seamless software delivery with automated SSL certificate rotation.
+* Implement cost-optimization strategies through GitHub Pages deployments and centralized infrastructure-as-code repositories for streamlined multi-project management.
 
 ### Project: Conductor
 
 #### Cloud Infrastructure & GCP
 
-* Manage Cloud infrastructure across Google Cloud Platform and various third-party providers.
-* Conduct comprehensive infrastructure budgeting and cost analysis for research grant applications, including detailed cost estimates and infrastructure planning for different operational scales across GCP services and third-party integrations such as Twilio and Mailgun.
-* Investigate and implement various Infrastructure-as-Code tools like [Terraform](https://www.terraform.io/) and [Pulumi](https://www.pulumi.com/) to automate deployment of various parts of the system.
-* Execute comprehensive security vulnerability mitigation initiatives, including OpenSSH vulnerability remediation across all GCP projects.
-* Implementation of managed SSL certificates for a2i2.ai and a2i2.app domains.
-* Develop and deploy enhanced observability solutions including comprehensive GCP metrics monitoring and sophisticated alert policies for error detection.
-* Collaborate with cybersecurity teams on Microsoft Defender cost-benefit analysis and develop custom end-to-end solutions for analyzing traffic generated by untrusted open-source tools.
+* Manage multi-cloud infrastructure across Google Cloud Platform and third-party providers with comprehensive cost analysis for research grant applications including GCP services and integrations such as Twilio and Mailgun.
+* Implement Infrastructure-as-Code solutions using [Terraform](https://www.terraform.io/) and [Pulumi](https://www.pulumi.com/) for automated deployment and system management.
+* Execute security vulnerability mitigation initiatives including OpenSSH vulnerability remediation across all GCP projects.
+* Provision managed SSL certificates for multiple domains.
+* Deploy enhanced observability solutions with comprehensive GCP metrics monitoring, sophisticated alert policies, and solution for analyzing traffic from untrusted open-source tools.
+* Collaborate with cybersecurity teams on Microsoft Defender cost-benefit analysis and security posture improvements.
 
 #### Kubernetes & Container Orchestration
 
-* Optimize Kubernetes resource monitoring and consumption strategies, resulting in significant hosting cost reductions and improved overall GCP cost efficiency.
-* Implement advanced resource utilization monitoring across Kubernetes namespaces, resulting in significant cost optimization and improved operational efficiency.
-* Resolving Kubernetes issues affecting deployments as need be, planning and upgrading Kubernetes clusters. Implementing enhanced strategies to meet project budget requirements.
+* Optimize Kubernetes resource monitoring and consumption strategies across namespaces, resulting in significant hosting cost reductions and improved operational efficiency.
+* Resolve deployment issues, plan and upgrade Kubernetes clusters while implementing enhanced budget-compliant strategies for production environments.
 
 #### Spring Boot & Application Development
 
@@ -68,14 +64,14 @@ title: Resume
 #### Miscellaneous Activities
 
 * Orchestrate comprehensive documentation for research ethics compliance and execute systematic adherence protocols to maintain regulatory standards.
-* Oversee [Metabase](https://www.metabase.com/) implementation for analytics of multi-study research datasets and comprehensive system performance metrics.
-* Manage [Keycloak](https://www.keycloak.org/) deployment supporting OAuth2.0 + OpenID Connect authentication protocols for seamless Android and iOS client integration with microservices architecture.
-* Administer multiple Postgres instances including but not limited to monitoring and tweaking performance, access-control, etc. along with enabling advanced features like forward data-wrappers.
-* Evaluate various time-series data solutions for collecting participants' data of a study; evaluate and while improving existing implementation of [Timescale](https://www.timescale.com/).
-* Conduct various performance-tests in emulated environments to identify and rectify performance bottlenecks.
-* Establish pipelines for backing up huge production datasets for disaster recovery and restoring the same in an isolated environment for carrying out various tests.
-* Implement advanced project knowledge management solutions using Coda platform for enhanced team collaboration and documentation.
-* Migrate CI/CD infrastructure from Codefresh to GitHub Actions, improving deployment automation and development workflow efficiency.
+* Oversee [Metabase](https://www.metabase.com/) implementation for analytics of multi-study research datasets and system performance metrics.
+* Manage [Keycloak](https://www.keycloak.org/) deployment supporting OAuth2.0 + OpenID Connect authentication protocols for Android and iOS client integration with microservices architecture.
+* Administer multiple Postgres instances including performance monitoring, access-control, and provisioning advanced features like forward data-wrappers.
+* Evaluate and improve time-series data solutions including [Timescale](https://www.timescale.com/) implementation for participant data collection.
+* Conduct performance testing in emulated environments to identify and rectify bottlenecks.
+* Establish disaster recovery pipelines for production dataset backup and isolated environment restoration for testing.
+* Implement project knowledge management solutions using Coda platform for enhanced team collaboration.
+* Migrate CI/CD infrastructure from Codefresh to GitHub Actions, improving deployment automation and workflow efficiency.
 
 ### Project: Living Knowledge
 
