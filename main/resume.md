@@ -38,6 +38,7 @@ title: Resume
 * Provide strategic insights for research initiatives and participate in scholarly paper reviews.
 * Design and maintain CI/CD pipelines ensuring seamless software delivery with automated SSL certificate rotation.
 * Implement cost-optimization strategies through GitHub Pages deployments and centralized infrastructure-as-code repositories for streamlined multi-project management.
+* Improve team productivity using zsh/bash/python scripting and standardising development environments.
 
 ### Project: Conductor
 
@@ -143,7 +144,7 @@ title: Resume
 
 #### Deployment & Security
 
-* Deployed the solution on development and production servers using Nginx, Docker Swarm for scaling, docker-compose and bash scripts.
+* Deployed the solution on development and production servers using Nginx, Docker Swarm for scaling, docker-compose and zsh/bash scripts.
 * Modified legacy PHP reporting application to enhance security.
 
 ### Project: Overseer
@@ -251,13 +252,13 @@ Accomplishments:
 
 # Technical Skills and Abilities
 
-**Programming Languages**: JavaScript, Ruby, Java, Python, C#, Bash, TypeScript, C++.
+**Programming Languages**: Java, Python, Dart, Zsh/Bash, JavaScript, Ruby, C#, TypeScript, C++.
 
 **Markup/styling Languages**: Markdown, HTML5, CSS3, SCSS.
 
-**Frameworks**: Hapi, React, Ruby on Rails, Bootstrap, Unity, Spring Boot, FastAPI.
+**Frameworks**: Flutter, Supabase, Spring Boot, FastAPI, Asp.NET, Express, Hapi, React, Ruby on Rails, Bootstrap, Unity.
 
-**Databases**: MySQL, Redis, MongoDB, Postgres.
+**Databases**: Postgres, Google BigQuery, MySQL, Redis, MongoDB.
 
 **Operating Systems**: macOS, Ubuntu, CentOS, Windows.
 
