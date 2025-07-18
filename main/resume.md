@@ -55,7 +55,7 @@ title: Resume
 * Optimize Kubernetes resource monitoring and consumption strategies across namespaces, resulting in significant hosting cost reductions and improved operational efficiency.
 * Resolve deployment issues, plan and upgrade Kubernetes clusters while implementing enhanced budget-compliant strategies for production environments.
 
-#### Spring Boot & Application Development
+#### Spring Boot & other Application Development
 
 * Lead major framework upgrades including Spring Boot version migration from 2.2.7 to 3.3.4, resolving Hikari connection pooling issues and implementing enhanced dependency management systems.
 * Establish centralized dependency management architecture with OpenRewrite integration for automated dependency updates and enhanced gradle multi-module project structure.
