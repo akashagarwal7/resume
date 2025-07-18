@@ -10,6 +10,8 @@ title: Resume
 * Loves automating monotonous tasks/chores and contributing to Open Source.
 * 16+ years of experience in using computers and programming and 8+ years of experience in engineering software solutions, as a hobbyist as well as a professional utilizing multiple programming languages and frameworks.
 * Good grasping power of new programming languages and concepts. Can easily explore/use APIs and SDKs.
+* Proficient in Google Cloud Platform (and associated FinOps, IaC), along with experience in using AWS and Azure.
+* Proficient in prompt engineering, using LLM based tools like Cursor, Copilot, LMStudio, Ollama, etc.
 * Proficient in operating *nix operating systems; proficient in developing and deploying solutions with security in mind.
 * Proficient in using Git, Kubernetes, Docker, VirtualBox, Agile methodologies, UML diagrams and documentation.
 * Good time-management skills.
@@ -60,6 +62,7 @@ title: Resume
 * Contribute and review code towards a live, complex distributed system involving Artificial Intelligence and multiple asynchronous operations backed by RabbitMQ.
 * Implement contract testing using [Pact](https://pact.io) along with guidelines to facilitate team adoption and knowledge transfer.
 * Gained significant experience working with Auth0.
+* Gained significant experience working with [Supabase](https://supabase.com/) and [Flutter](https://flutter.dev/) for cross-platform mobile apps.
 
 #### Miscellaneous Activities
 
