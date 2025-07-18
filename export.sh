@@ -2,6 +2,7 @@
 
 echo "Exporting resume and cover letter... switching to pdf branch"
 git checkout pdf
+git merge master
 # Resume formats
 pandoc -s ./main/resume.md -V urlcolor=blue -V geometry:margin=1in -o ./out/Resume\ \-\ Akash\ Agarwal.pdf
 pandoc -s ./main/resume.md -V urlcolor=blue -V geometry:margin=1in -o ./out/Resume\ \-\ Akash\ Agarwal.docx
