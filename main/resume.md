@@ -14,6 +14,8 @@ Phone number: +61 (435) 217 377
 * Loves automating monotonous tasks/chores and contributing to Open Source.
 * 16+ years of experience in using computers and programming and 8+ years of experience in engineering software solutions, as a hobbyist as well as a professional utilizing multiple programming languages and frameworks.
 * Good grasping power of new programming languages and concepts. Can easily explore/use APIs and SDKs.
+* Proficient in Google Cloud Platform (and associated FinOps, IaC), along with experience in using AWS and Azure.
+* Proficient in prompt engineering, using LLM based tools like Cursor, Copilot, LMStudio, Ollama, etc.
 * Proficient in operating *nix operating systems; proficient in developing and deploying solutions with security in mind.
 * Proficient in using Git, Kubernetes, Docker, VirtualBox, Agile methodologies, UML diagrams and documentation.
 * Good time-management skills.
@@ -40,6 +42,7 @@ Phone number: +61 (435) 217 377
 * Provide strategic insights for research initiatives and participate in scholarly paper reviews.
 * Design and maintain CI/CD pipelines ensuring seamless software delivery with automated SSL certificate rotation.
 * Implement cost-optimization strategies through GitHub Pages deployments and centralized infrastructure-as-code repositories for streamlined multi-project management.
+* Improve team productivity using zsh/bash/python scripting and standardising development environments.
 
 ### Project: Conductor
 
@@ -57,13 +60,14 @@ Phone number: +61 (435) 217 377
 * Optimize Kubernetes resource monitoring and consumption strategies across namespaces, resulting in significant hosting cost reductions and improved operational efficiency.
 * Resolve deployment issues, plan and upgrade Kubernetes clusters while implementing enhanced budget-compliant strategies for production environments.
 
-#### Spring Boot & Application Development
+#### Spring Boot & other Application Development
 
 * Lead major framework upgrades including Spring Boot version migration from 2.2.7 to 3.3.4, resolving Hikari connection pooling issues and implementing enhanced dependency management systems.
 * Establish centralized dependency management architecture with OpenRewrite integration for automated dependency updates and enhanced gradle multi-module project structure.
 * Contribute and review code towards a live, complex distributed system involving Artificial Intelligence and multiple asynchronous operations backed by RabbitMQ.
 * Implement contract testing using [Pact](https://pact.io) along with guidelines to facilitate team adoption and knowledge transfer.
 * Gained significant experience working with Auth0.
+* Gained significant experience working with [Supabase](https://supabase.com/) and [Flutter](https://flutter.dev/) for cross-platform mobile apps.
 
 #### Miscellaneous Activities
 
@@ -144,7 +148,7 @@ Phone number: +61 (435) 217 377
 
 #### Deployment & Security
 
-* Deployed the solution on development and production servers using Nginx, Docker Swarm for scaling, docker-compose and bash scripts.
+* Deployed the solution on development and production servers using Nginx, Docker Swarm for scaling, docker-compose and zsh/bash scripts.
 * Modified legacy PHP reporting application to enhance security.
 
 ### Project: Overseer
@@ -252,13 +256,13 @@ Accomplishments:
 
 # Technical Skills and Abilities
 
-**Programming Languages**: JavaScript, Ruby, Java, Python, C#, Bash, TypeScript, C++.
+**Programming Languages**: Java, Python, Dart, Zsh/Bash, JavaScript, Ruby, C#, TypeScript, C++.
 
 **Markup/styling Languages**: Markdown, HTML5, CSS3, SCSS.
 
-**Frameworks**: Hapi, React, Ruby on Rails, Bootstrap, Unity, Spring Boot, FastAPI.
+**Frameworks**: Flutter, Supabase, Spring Boot, FastAPI, Asp.NET, Express, Hapi, React, Ruby on Rails, Bootstrap, Unity.
 
-**Databases**: MySQL, Redis, MongoDB, Postgres.
+**Databases**: Postgres, Google BigQuery, MySQL, Redis, MongoDB.
 
 **Operating Systems**: macOS, Ubuntu, CentOS, Windows.
 
