@@ -2,6 +2,7 @@
 
 current_branch_name=$(git branch --show-current)
 output_dir="./out/$current_branch_name"
+mkdir -p $output_dir > /dev/null 2>&1
 
 echo "Exporting resume and cover letter to $output_dir... switching to pdf branch"
 git checkout pdf
