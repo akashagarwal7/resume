@@ -21,10 +21,10 @@ My [resume](../resume) shows that I would bring important skills to a potential 
 
 I consider myself to be a good fit for team environments because I believe in communication being a major driver for the success of a project/undertaking. I highly believe in maintaining cohesion through establishing centralized knowledge bases to reduce friction and thus enabling higher autonomy across teams.
 
-[//3]: # (Different content in different branches to meet different needs START)
-
 An opportunity to talk to you more about a potential role and how I could use my skills to benefit your organization would be much appreciated.
 
 Thank you for reading.
+
+[//3]: # (Different content in different branches to meet different needs START)
 
 [//4]: # (Different content in different branches to meet different needs END)
