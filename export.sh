@@ -1,12 +1,13 @@
 #!/bin/bash
 
+echo "Exporting resume and cover letter to $output_dir... switching to pdf branch"
+git checkout pdf
+git merge master
+
 current_branch_name=$(git branch --show-current)
 output_dir="./out/$current_branch_name"
 mkdir -p $output_dir > /dev/null 2>&1
 
-echo "Exporting resume and cover letter to $output_dir... switching to pdf branch"
-git checkout pdf
-git merge master
 # Resume formats
 pandoc -s ./main/resume.md -V urlcolor=blue -V geometry:margin=1in -o $output_dir/Resume\ \-\ Akash\ Agarwal.pdf
 pandoc -s ./main/resume.md -V urlcolor=blue -V geometry:margin=1in -o $output_dir/Resume\ \-\ Akash\ Agarwal.docx
