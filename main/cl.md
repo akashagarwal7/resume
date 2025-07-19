@@ -3,13 +3,18 @@ layout: page
 title: Cover Letter
 ---
 
+Akash Agarwal\
++61 (435) 217 377\
+agarwal.akash333@gmail.com\
+Burwood East, VIC 3151\
+
 G'day,
 
 [//1]: # (This may be the most platform independent comment. Different content in different branches to meet different needs START)
 
 Top-notch problem-solving skills are a must in the fast-paced and complex world of IT and pride myself as an excellent solutions architect. I have a knack for consistency, and I thrive by investing my time in learning/building useful tools to benefit the world, the people I work with and myself.
 
-My [resume](../resume) shows that I would bring important skills to a potential role, including:
+My [resume](https://akashagarwal7.com/about/main/resume/) shows that I would bring important skills to a potential role, including:
 
 [//2]: # (Different content in different branches to meet different needs END)
 
@@ -26,5 +31,8 @@ I consider myself to be a good fit for team environments because I believe in co
 An opportunity to talk to you more about a potential role and how I could use my skills to benefit your organization would be much appreciated.
 
 Thank you for reading.
+
+Yours sincerely,\
+Akash Agarwal
 
 [//4]: # (Different content in different branches to meet different needs END)
