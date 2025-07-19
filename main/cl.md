@@ -30,7 +30,7 @@ I consider myself to be a good fit for team environments because I believe in co
 
 An opportunity to talk to you more about a potential role and how I could use my skills to benefit your organization would be much appreciated.
 
-Thank you for reading.
+Thank you for reading.\
 
 Yours sincerely,\
 Akash Agarwal
