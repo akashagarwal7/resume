@@ -30,9 +30,9 @@ An opportunity to talk to you more about a potential role and how I could use my
 
 Thank you for reading.\
 
+[//3]: # (Different content in different branches to meet different needs START)
+
 Yours sincerely,\
 Akash Agarwal
-
-[//3]: # (Different content in different branches to meet different needs START)
 
 [//4]: # (Different content in different branches to meet different needs END)
