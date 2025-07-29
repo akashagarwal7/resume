@@ -13,11 +13,12 @@ Phone number: +61 (435) 217 377
 * Eager to learn; thrives in doing things the right way.
 * Loves automating monotonous tasks/chores and contributing to Open Source.
 * 16+ years of experience in using computers and programming and 8+ years of experience in engineering software solutions, as a hobbyist as well as a professional utilizing multiple programming languages and frameworks.
-* Good grasping power of new programming languages and concepts. Can easily explore/use APIs and SDKs.
+* Proficient in prompt engineering, using LLM based tools like [Cursor](https://cursor.com/), [LMStudio](https://lmstudio.ai/), Github Copilot, Ollama, etc.
 * Proficient in Google Cloud Platform (and associated FinOps, IaC), along with experience in using AWS and Azure.
-* Proficient in prompt engineering, using LLM based tools like Cursor, Copilot, LMStudio, Ollama, etc.
+* Experienced in customing and maintaining various aspects of Github and Gitlab organisations.
 * Proficient in operating *nix operating systems; proficient in developing and deploying solutions with security in mind.
 * Proficient in using Git, Kubernetes, Docker, VirtualBox, Agile methodologies, UML diagrams and documentation.
+* Good grasping power of new programming languages and concepts. Can easily explore/use APIs and SDKs.
 * Good time-management skills.
 * Excellent verbal and written communication skills.
 * Takes regular interest in fitness, reading and writing.
