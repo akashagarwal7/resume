@@ -1,16 +1,17 @@
 #!/bin/bash
 
+# printf "==> Merging branch content into master\n" && \
+#   git merge content && \
+
 printf "*** Running script update.sh\n\n" && \
   printf "==> Checking out master\n" && \
   git checkout master && \
-  printf "==> Merging branch content into master\n" && \
-  git merge content && \
   printf "==> Pushing master branch to origin\n" && \
   git push origin master && \
-  printf "==> Checking out branch content\n" && \
-  git checkout content && \
-  printf "==> Pushing content branch to origin\n" && \
-  git push origin content && \
+  printf "==> Checking out branch pdf\n" && \
+  git checkout pdf && \
+  printf "==> Pushing pdf branch to origin\n" && \
+  git push origin pdf && \
   printf "\n\n*** Finished running script update.sh successfully!" && \
   exit 0
 
